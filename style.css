@@ -56,3 +56,9 @@ body {
   background-color: crimson;
   transform: translate(-50%, -50%);
 }
+
+@media (max-width: 1100px) {
+  body {
+    padding: 20px;
+  }
+}
